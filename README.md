@@ -1,16 +1,140 @@
-## Hi there 👋
+template: "online-cv"
+skin: "blue"
 
-<!--
-**23Ousama/23Ousama** is a ✨ _special_ ✨ repository because its `README.md` (this file) appears on your GitHub profile.
+# Información Personal
+basic_info:
+  first_name: Ousama
+  last_name: EL Yazidi
+  motto: "Estudiante de código y amante del deporte"
+  focus: "Futuro Full Stack Developer"
+  summary: |
+    Soy un apasionado del desarrollo web con un fuerte interés en aprender tecnologías tanto de frontend como de backend. 
+    Actualmente, estoy enfocado en mejorar mis habilidades en HTML, CSS, JavaScript y explorando frameworks como React y Node.js. 
+    Mi objetivo es convertirme en un desarrollador Full Stack capaz de crear soluciones completas e innovadoras.
+  avatar: ""
+  email: "Elyazidi2001@gmail.com"
+  phone: "+34 722 22 22 22"
+  website: "https://ousamaelyazidi.com"
+  linkedin: ""
+  github: "23Ousama"
+  twitter: "OusamaDev"
+  stack_overflow: "123456/ousama-elyazidi"
+  languages:
+    - idiom: "Español"
+      level: "Nativo"
+    - idiom: "Inglés"
+      level: "Intermedio"
+    - idiom: "Árabe"
+      level: "Nativo"
+  interests:
+    - item: "Deportes"
+    - item: "Programación"
+    - item: "Videojuegos"
 
-Here are some ideas to get you started:
+# Educación
+education:
+  - degree: "Educación Secundaria Obligatoria"
+    university: "Instituto de Educación Secundaria Ejemplo"
+    time: "2012 - 2016"
+    details: |
+      - Graduado con mención en Ciencias Sociales.
+      - Participación activa en actividades extracurriculares.
 
-- 🔭 I’m currently working on ...
-- 🌱 I’m currently learning ...
-- 👯 I’m looking to collaborate on ...
-- 🤔 I’m looking for help with ...
-- 💬 Ask me about ...
-- 📫 How to reach me: ...
-- 😄 Pronouns: ...
-- ⚡ Fun fact: ...
--->
+  - degree: "Técnico en Gestión Administrativa"
+    university: "IES LUIS BUÑUEL"
+    time: "2022 - 2025"
+    details: |
+      - Especializado en gestión de documentos y atención al cliente.
+      - Prácticas en empresa local.
+
+  - degree: "Estudiante de Full Stack Developer"
+    university: "4Geeks Academy"
+    university_logo: "https://4geeksacademy.com/static/logo-4geeks-1db4a8f87a0eebc9a1f0d8b5e1b0e1a9.png"
+    time: "2023 - Presente"
+    details: |
+      - Aprendiendo tecnologías como HTML, CSS, JavaScript, React, Python y Flask.
+      - Desarrollo de proyectos prácticos para construir un portafolio sólido.
+
+# Experiencia Laboral
+experiences:
+  - role: "Preparador de pedidos"
+    company: "IKEA"
+    company_logo: "https://upload.wikimedia.org/wikipedia/commons/thumb/1/11/Ikea_logo.svg/1280px-Ikea_logo.svg.png"
+    time: "2021 - Presente"
+    details: |
+      - Preparación y organización eficiente de pedidos.
+      - Coordinación con el equipo de logística para cumplir con los plazos de entrega.
+      - Mantenimiento de un alto nivel de precisión en la gestión de inventarios.
+
+  - role: "Asistente administrativo (Prácticas)"
+    company: "Empresa Local de Gestión"
+    company_logo: "https://ejemplo.com/logo-empresa-local.png"
+    time: "2020 - 2021"
+    details: |
+      - Gestión de documentos y archivos.
+      - Atención al cliente y soporte telefónico.
+      - Apoyo en tareas administrativas y organización de eventos.
+
+  - role: "Voluntario en organización comunitaria"
+    company: "Ayuda Comunitaria"
+    company_logo: "https://ejemplo.com/logo-ayuda-comunitaria.png"
+    time: "2019 - 2020"
+    details: |
+      - Organización de eventos benéficos.
+      - Coordinación de voluntarios y recursos.
+      - Soporte en la gestión de donaciones.
+
+# Proyectos
+projects:
+  intro: |
+    Aquí puedes listar tus proyectos personales, académicos o profesionales. 
+    Estos proyectos demuestran tus habilidades y experiencia en el desarrollo web.
+  assignments:
+    - title: "Página Web Personal"
+      project_logo: "https://ejemplo.com/logo-proyecto-personal.png"
+      link: "https://ousamaelyazidi.com"
+      tagline: "Una página web personal diseñada para mostrar mi portafolio y habilidades."
+
+    - title: "Aplicación de Gestión de Tareas"
+      project_logo: "https://ejemplo.com/logo-tareas.png"
+      link: "https://github.com/23Ousama/task-manager"
+      tagline: "Aplicación web para gestionar tareas diarias, construida con React y Node.js."
+
+    - title: "Blog Técnico"
+      project_logo: "https://ejemplo.com/logo-blog.png"
+      link: "https://ousamaelyazidi.com/blog"
+      tagline: "Un blog donde comparto tutoriales y artículos sobre desarrollo web."
+
+# Habilidades
+skills:
+  toolset:
+    - name: "HTML5 & CSS3"
+      level: "85%"
+    - name: "JavaScript"
+      level: "75%"
+    - name: "React"
+      level: "70%"
+    - name: "Python"
+      level: "65%"
+    - name: "Flask"
+      level: "60%"
+
+# Widgets
+widgets:
+  - title: "Actividad en GitHub"
+    type: "github-calendar"
+    link: "https://github.com/23Ousama"
+    code: |
+      <div class="github-widget" data-username="23Ousama"></div>
+      <link rel="stylesheet" href="https://unpkg.com/github-calendar@latest/dist/github-calendar-responsive.css"/>
+      <script src="https://unpkg.com/github-calendar@latest/dist/github-calendar.min.js"></script>
+      <script>
+        GitHubCalendar(".github-widget", "23Ousama", { responsive: true });
+      </script>
+
+  - title: "Estadísticas de GitHub"
+    type: "github-stats"
+    link: "https://github.com/23Ousama"
+    code: |
+      <img src="https://github-readme-stats.vercel.app/api?username=23Ousama&show_icons=true&theme=radical" alt="GitHub Stats"/>
+
