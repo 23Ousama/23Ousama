@@ -1,125 +1,120 @@
-# 👋 Hola, soy Ousama El Yazidi
-
-[![Email](https://img.shields.io/badge/-Email-D14836?style=flat&logo=gmail&logoColor=white)](mailto:Elyazidi2001@gmail.com)
-[![GitHub](https://img.shields.io/badge/-GitHub-181717?style=flat&logo=github&logoColor=white)](https://github.com/23Ousama)
-[![Twitter](https://img.shields.io/badge/-Twitter-1DA1F2?style=flat&logo=twitter&logoColor=white)](https://twitter.com/OusamaDev)
-
-## 👨‍💻 Sobre mí
-
-> "Estudiante de código y amante del deporte"
-
-Soy un **Desarrollador Full Stack** en formación, apasionado por el desarrollo web con un fuerte interés en aprender tecnologías tanto de frontend como de backend. Actualmente, estoy enfocado en mejorar mis habilidades en HTML, CSS, JavaScript y explorando frameworks como React y Node.js. Mi objetivo es convertirme en un desarrollador Full Stack capaz de crear soluciones completas e innovadoras.
-
-- 🔭 Actualmente estudio en **4Geeks Academy** como Full Stack Developer
-- 🌱 Estoy aprendiendo **React, Python, Flask y JavaScript avanzado**
-- 👯 Busco colaborar en **proyectos que me permitan crecer profesionalmente**
-- 💬 Pregúntame sobre **HTML, CSS, JavaScript y desarrollo web**
-- 📫 Contáctame: **Elyazidi2001@gmail.com**
-- 🌍 Idiomas: **Español (Nativo), Árabe (Nativo), Inglés (Intermedio)**
-
-## 🛠️ Tecnologías y Herramientas
-
-![HTML5](https://img.shields.io/badge/-HTML5-E34F26?style=flat&logo=html5&logoColor=white)
-![CSS3](https://img.shields.io/badge/-CSS3-1572B6?style=flat&logo=css3&logoColor=white)
-![JavaScript](https://img.shields.io/badge/-JavaScript-F7DF1E?style=flat&logo=javascript&logoColor=black)
-![React](https://img.shields.io/badge/-React-61DAFB?style=flat&logo=react&logoColor=black)
-![Python](https://img.shields.io/badge/-Python-3776AB?style=flat&logo=python&logoColor=white)
-![Flask](https://img.shields.io/badge/-Flask-000000?style=flat&logo=flask&logoColor=white)
-![Bootstrap](https://img.shields.io/badge/-Bootstrap-7952B3?style=flat&logo=bootstrap&logoColor=white)
-![Git](https://img.shields.io/badge/-Git-F05032?style=flat&logo=git&logoColor=white)
-![GitHub](https://img.shields.io/badge/-GitHub-181717?style=flat&logo=github&logoColor=white)
-![Node.js](https://img.shields.io/badge/-Node.js-339933?style=flat&logo=node.js&logoColor=white)
-
-## 📊 GitHub Estadísticas
+<h1 align="center">
+  <img src="https://readme-typing-svg.demolab.com?font=Fira+Code&weight=600&size=30&duration=3000&pause=500&color=F7C600&center=true&vCenter=true&width=700&height=60&lines=Ousama+El+Yazidi;Full+Stack+Developer;%F0%9F%94%A5+Apasionado+por+la+tecnología"/>
+</h1>
 
 <p align="center">
-  <img src="https://github-readme-stats.vercel.app/api?username=23Ousama&show_icons=true&theme=radical" alt="GitHub Stats" />
+  <a href="mailto:Elyazidi2001@gmail.com">
+    <img src="https://img.shields.io/badge/Email-D14836?style=for-the-badge&logo=gmail&logoColor=white" />
+  </a>
+  <a href="https://github.com/23Ousama">
+    <img src="https://img.shields.io/badge/GitHub-181717?style=for-the-badge&logo=github&logoColor=white" />
+  </a>
+  <a href="https://twitter.com/OusamaDev">
+    <img src="https://img.shields.io/badge/Twitter-1DA1F2?style=for-the-badge&logo=twitter&logoColor=white" />
+  </a>
+  <a href="https://www.linkedin.com/in/ousamaelyazidi">
+    <img src="https://img.shields.io/badge/LinkedIn-0077B5?style=for-the-badge&logo=linkedin&logoColor=white" />
+  </a>
+</p>
+
+---
+
+## 🚀 Sobre mí  
+
+💡 **Desarrollador Full Stack** en formación, con una mentalidad de optimización y alto rendimiento. Me apasiona escribir código **eficiente, escalable y limpio**.  
+
+🏎️ **Amo la velocidad, los motores, las motos y los coches**. Mi enfoque en rendimiento y precisión en la ingeniería mecánica lo aplico también al desarrollo web.  
+
+🛠️ **Exploro nuevas tecnologías** y frameworks para estar en la vanguardia del desarrollo.  
+
+📌 **Busco oportunidades para contribuir en proyectos innovadores** y mejorar mis habilidades tanto en frontend como en backend.  
+
+---
+
+## 🛠️ Tech Stack  
+
+<p align="center">
+  <img src="https://skillicons.dev/icons?i=html,css,js,react,python,flask,bootstrap,nodejs,git,github" />
+</p>
+
+---
+
+## 📊 GitHub Insights  
+
+<p align="center">
+  <img src="https://github-readme-stats.vercel.app/api?username=23Ousama&show_icons=true&theme=tokyonight" alt="GitHub Stats" />
 </p>
 
 <p align="center">
-  <img src="https://github-readme-streak-stats.herokuapp.com/?user=23Ousama&theme=radical" alt="GitHub Streak" />
+  <img src="https://github-readme-streak-stats.herokuapp.com/?user=23Ousama&theme=tokyonight" alt="GitHub Streak" />
 </p>
 
-## 🏆 Proyectos Destacados
+<p align="center">
+  <img src="https://github-profile-summary-cards.vercel.app/api/cards/profile-details?username=23Ousama&theme=github_dark" />
+</p>
+
+---
+
+## 🏆 Proyectos Destacados  
 
 <table>
   <tr>
     <td>
       <a href="https://github.com/23Ousama/task-manager">
-        <img src="https://github-readme-stats.vercel.app/api/pin/?username=23Ousama&repo=task-manager&theme=radical" alt="Aplicación de Gestión de Tareas" />
+        <img src="https://github-readme-stats.vercel.app/api/pin/?username=23Ousama&repo=task-manager&theme=tokyonight" alt="Task Manager" />
       </a>
-      <p>Aplicación web para gestionar tareas diarias, construida con React y Node.js.</p>
+      <p>📌 Gestión de tareas con React y Node.js</p>
     </td>
     <td>
       <a href="https://github.com/23Ousama/portfolio">
-        <img src="https://github-readme-stats.vercel.app/api/pin/?username=23Ousama&repo=portfolio&theme=radical" alt="Página Web Personal" />
+        <img src="https://github-readme-stats.vercel.app/api/pin/?username=23Ousama&repo=portfolio&theme=tokyonight" alt="Portfolio Personal" />
       </a>
-      <p>Una página web personal diseñada para mostrar mi portafolio y habilidades.</p>
+      <p>📌 Mi portafolio personal con proyectos y habilidades</p>
     </td>
   </tr>
 </table>
 
-## 📈 Actividad en GitHub
+---
 
-![Gráfico de Contribuciones](https://activity-graph.herokuapp.com/graph?username=23Ousama&theme=react-dark)
+## 🎓 Formación  
 
-## 🎓 Educación
+📌 **Full Stack Developer** en 4Geeks Academy    
+📌 **Técnico en Gestión Administrativa**    
+📌 **Educación Secundaria Obligatoria**    
 
-- **Estudiante de Full Stack Developer** - 4Geeks Academy - Presente
-  - Aprendiendo tecnologías como HTML, CSS, JavaScript, React, Python y Flask.
-  - Desarrollo de proyectos prácticos para construir un portafolio sólido.
+---
 
-- **Técnico en Gestión Administrativa** - IES LUIS BUÑUEL
-  - Especializado en gestión de documentos y atención al cliente.
-  - Prácticas en empresa local.
+## 💼 Experiencia  
 
-- **Educación Secundaria Obligatoria** - Instituto de Educación Secundaria _(2012 - 2016)_
-  - Graduado con mención en Ciencias Sociales.
-  - Participación activa en actividades extracurriculares.
+**📦 Preparador de pedidos - IKEA**  
+🔹 Organización y optimización de pedidos  
+🔹 Trabajo en equipo y logística eficiente  
 
-## 💼 Experiencia Laboral
+**📂 Asistente administrativo - Empresa Local de Gestión**  
+🔹 Gestión documental y atención al cliente  
 
-- **Preparador de pedidos** - IKEA _(2022 - Presente)_
-  - Preparación y organización eficiente de pedidos.
-  - Coordinación con el equipo de logística para cumplir con los plazos de entrega.
-  - Mantenimiento de un alto nivel de precisión en la gestión de inventarios.
+---
 
-- **Asistente administrativo ** - Empresa Local de Gestión _(2019 - 2022)_
-  - Gestión de documentos y archivos.
-  - Atención al cliente y soporte telefónico.
-  - Apoyo en tareas administrativas y organización de eventos.
+## ⚡ Intereses  
 
-## 🌟 Habilidades
+🏎️ **Motores, coches y velocidad** - Pasión por la ingeniería y rendimiento  
+💻 **Desarrollo web y tecnología** - Siempre aprendiendo y explorando nuevas herramientas  
+🎮 **Gaming y entretenimiento digital** - Interesado en la interactividad y UX/UI  
+🏋️ **Deporte y vida activa** - Enfocado en disciplina y rendimiento  
 
-### Desarrollo Web
-- HTML5 & CSS3: ⭐⭐⭐⭐⭐
-- JavaScript: ⭐⭐⭐
-- React: ⭐⭐
-- Python: ⭐⭐
-- Flask: ⭐⭐
+---
 
-### Otras Habilidades
-- Trabajo en equipo: ⭐⭐⭐⭐⭐
-- Gestión de tiempo: ⭐⭐⭐⭐
-- Resolución de problemas: ⭐⭐⭐⭐
-- Atención al cliente: ⭐⭐⭐⭐⭐
+## 📬 Contacto  
 
-## 🔥 Intereses
-
-- 🏀 Deportes
-- 💻 Programación
-- 🎮 Videojuegos
-
-## 📫 Contacto
-
-- 📧 Email: Elyazidi2001@gmail.com
-- 📱 Teléfono: +34 722 55 22 29
-- 💻 GitHub: [23Ousama](https://github.com/23Ousama)
+📧 **Email:** Elyazidi2001@gmail.com  
+🐦 **Twitter:** [@OusamaDev](https://twitter.com/OusamaDev)  
+💻 **GitHub:** [23Ousama](https://github.com/23Ousama)  
+🔗 **LinkedIn:** [Ousama El Yazidi](https://www.linkedin.com/in/ousamaelyazidi)  
 
 ---
 
 <p align="center">
-  <img src="https://komarev.com/ghpvc/?username=23Ousama&color=brightgreen" alt="Contador de visitas al perfil" />
+  <img src="https://komarev.com/ghpvc/?username=23Ousama&color=brightgreen" alt="Visitas al perfil" />
 </p>
 
 <p align="center">
