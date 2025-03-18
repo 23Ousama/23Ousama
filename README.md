@@ -65,11 +65,11 @@ Soy un **Desarrollador Full Stack** en formación, apasionado por el desarrollo 
 
 ## 🎓 Educación
 
-- **Estudiante de Full Stack Developer** - 4Geeks Academy _(2023 - Presente)_
+- **Estudiante de Full Stack Developer** - 4Geeks Academy - Presente
   - Aprendiendo tecnologías como HTML, CSS, JavaScript, React, Python y Flask.
   - Desarrollo de proyectos prácticos para construir un portafolio sólido.
 
-- **Técnico en Gestión Administrativa** - IES LUIS BUÑUEL _(2022 - 2025)_
+- **Técnico en Gestión Administrativa** - IES LUIS BUÑUEL
   - Especializado en gestión de documentos y atención al cliente.
   - Prácticas en empresa local.
 
@@ -79,29 +79,24 @@ Soy un **Desarrollador Full Stack** en formación, apasionado por el desarrollo 
 
 ## 💼 Experiencia Laboral
 
-- **Preparador de pedidos** - IKEA _(2021 - Presente)_
+- **Preparador de pedidos** - IKEA _(2022 - Presente)_
   - Preparación y organización eficiente de pedidos.
   - Coordinación con el equipo de logística para cumplir con los plazos de entrega.
   - Mantenimiento de un alto nivel de precisión en la gestión de inventarios.
 
-- **Asistente administrativo (Prácticas)** - Empresa Local de Gestión _(2020 - 2021)_
+- **Asistente administrativo ** - Empresa Local de Gestión _(2019 - 2022)_
   - Gestión de documentos y archivos.
   - Atención al cliente y soporte telefónico.
   - Apoyo en tareas administrativas y organización de eventos.
-
-- **Voluntario en organización comunitaria** - Ayuda Comunitaria _(2019 - 2020)_
-  - Organización de eventos benéficos.
-  - Coordinación de voluntarios y recursos.
-  - Soporte en la gestión de donaciones.
 
 ## 🌟 Habilidades
 
 ### Desarrollo Web
 - HTML5 & CSS3: ⭐⭐⭐⭐⭐
-- JavaScript: ⭐⭐⭐⭐
-- React: ⭐⭐⭐⭐
-- Python: ⭐⭐⭐
-- Flask: ⭐⭐⭐
+- JavaScript: ⭐⭐⭐
+- React: ⭐⭐
+- Python: ⭐⭐
+- Flask: ⭐⭐
 
 ### Otras Habilidades
 - Trabajo en equipo: ⭐⭐⭐⭐⭐
@@ -119,7 +114,6 @@ Soy un **Desarrollador Full Stack** en formación, apasionado por el desarrollo 
 
 - 📧 Email: Elyazidi2001@gmail.com
 - 📱 Teléfono: +34 722 55 22 29
-- 🐦 Twitter: [@OusamaDev](https://twitter.com/OusamaDev)
 - 💻 GitHub: [23Ousama](https://github.com/23Ousama)
 
 ---
