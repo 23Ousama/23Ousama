@@ -3,7 +3,6 @@
 [![Email](https://img.shields.io/badge/-Email-D14836?style=flat&logo=gmail&logoColor=white)](mailto:Elyazidi2001@gmail.com)
 [![GitHub](https://img.shields.io/badge/-GitHub-181717?style=flat&logo=github&logoColor=white)](https://github.com/23Ousama)
 [![Twitter](https://img.shields.io/badge/-Twitter-1DA1F2?style=flat&logo=twitter&logoColor=white)](https://twitter.com/OusamaDev)
-[![Phone](https://img.shields.io/badge/-Phone-green?style=flat&logo=whatsapp&logoColor=white)](tel:+34722552229)
 
 ## 👨‍💻 Sobre mí
 
