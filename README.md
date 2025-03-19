@@ -96,10 +96,10 @@
 
 ## ⚡ Intereses  
 
-🏎️ **Motores, coches y velocidad** - Pasión por la ingeniería y rendimiento  
-💻 **Desarrollo web y tecnología** - Siempre aprendiendo y explorando nuevas herramientas  
-🎮 **Gaming y entretenimiento digital** - Interesado en la interactividad y UX/UI  
-🏋️ **Deporte y vida activa** - Enfocado en disciplina y rendimiento  
+🏎️ **Motores, coches y velocidad** 
+💻 **Desarrollo web y tecnología**  
+🎮 **Gaming y entretenimiento digital**
+🏋️ **Deporte y vida activa**
 
 ---
 
