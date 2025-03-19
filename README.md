@@ -97,8 +97,11 @@
 ## ⚡ Intereses  
 
 🏎️ **Motores, coches y velocidad** 
+
 💻 **Desarrollo web y tecnología**  
+
 🎮 **Gaming y entretenimiento digital**
+
 🏋️ **Deporte y vida activa**
 
 ---
