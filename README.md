@@ -85,13 +85,12 @@
 ---
 
 ## 💼 Experiencia  
+**📂 Asistente administrativo - Banco Santander**  
+
+**📂 Jefe de departamento logístico - Crane Worldwide Logistics Saudi Arabia LLC**
 
 **📦 Preparador de pedidos - IKEA**  
-🔹 Organización y optimización de pedidos  
-🔹 Trabajo en equipo y logística eficiente  
 
-**📂 Asistente administrativo - Empresa Local de Gestión**  
-🔹 Gestión documental y atención al cliente  
 
 ---
 
