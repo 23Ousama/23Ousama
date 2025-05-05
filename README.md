@@ -33,9 +33,9 @@
 
 ## 🛠️ Tech Stack  
 
-<p align="center">
-  <img src="https://skillicons.dev/icons?i=html,css,js,react,python,bootstrap,nodejs,git,github" />
-</p>
+
+  [![My Skills](https://skillicons.dev/icons?i=js,html,css,bootstrap,github,react)](https://skillicons.dev)
+
 
 ---
 
